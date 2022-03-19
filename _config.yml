@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://shengbaishu.com'
 baseurl: ''
-title: '圣白树'
+title: 'ShengBaiShu.com'
 description: '圣白树专注正版模玩'
 permalink: pretty
 logo: "https://img.alicdn.com/imgextra/i3/2710706468/O1CN01MSs8GS1xeOV16mYim_!!2710706468.jpg"
