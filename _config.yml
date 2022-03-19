@@ -21,10 +21,10 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://shengbaishu.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: '圣白树'
+description: '圣白树专注正版模玩'
 permalink: pretty
 logo: "https://img.alicdn.com/imgextra/i3/2710706468/O1CN01MSs8GS1xeOV16mYim_!!2710706468.jpg"
 
@@ -34,26 +34,28 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: 首页
   url: /
-- title: About
+- title: 关于
   url: /about/
-- title: Blog
+- title: 联系
+  url: /contact/
+- title: 动态
   url: /blog/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: 返回顶部↑Back to top
   url: "#top"
 
 # Collections
 collections:
   posts:
-    title: Posts
+    title: 动态
     output: true
-    description: "My thoughts and ideas"
+    description: "以下是我们的近期动态"
     feature_text: |
-      Welcome to my blog
+      请联系我们的QQ：2669505
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
