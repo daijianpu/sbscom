@@ -51,7 +51,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: 以下是我们的近期动态
+    title: 近期动态
     output: true
     description: "请联系我们的QQ：2669505"
     feature_text: 
