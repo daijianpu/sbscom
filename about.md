@@ -1,6 +1,7 @@
 ---
 title: 关于
 ---
+<hr>
 <p>圣白树</p>
 <p>www.shengbaishu.com</p>
 <p>有着稳定的日版和港版及代理版万代模玩。</p>
