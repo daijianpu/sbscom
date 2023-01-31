@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://daijianpu.com'
-baseurl: ''
+baseurl: 'https://www.daijianpu.com'
 title: 'Daijianpu.COM'
 description: 'mail@daijianpu.com'
 permalink: pretty
@@ -34,15 +34,17 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Daijianpu.COM
+- title: Home
   url: /
-- title: 关于
-  url: /about/
-- title: 联系
+- title: Blog
+  url: /blog/
+- title: Domain
+  url: /domain/
+- title: Contact
   url: /contact/
-- title: 资讯
-  url: /info/
-
+- title: About
+  url: /about/
+  
 # Footer nav
 navigation_footer:
 - title: Back t↑o top
