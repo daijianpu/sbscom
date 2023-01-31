@@ -1,5 +1,6 @@
 ---
 title: 关于
+feature_image: https://img.alicdn.com/imgextra/i4/2710706468/O1CN01RGST211xeOUvUE6ua_!!2710706468.jpg
 ---
 <hr>
 <p>圣白树</p>
