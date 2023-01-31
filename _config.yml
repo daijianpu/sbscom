@@ -47,7 +47,7 @@ navigation_header:
   
 # Footer nav
 navigation_footer:
-- title: Back t↑o top
+- title: Back ↑ top
   url: "#top"
 
 # Collections
