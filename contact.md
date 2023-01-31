@@ -1,9 +1,9 @@
 ---
-title: 联系
+title: Contact
 ---
 <hr>
-<p>我们的联系方式如下：</p>
-<p>微信QQ：2669505</p>
-<p>电话：170-0707-0909</p>
-<p>联系我们请直接说明来意。</p>
-<p>我们只接批发，不接零售。</p>
+|Contact Me|
+| ------------ | ------------ |
+| E-Mail  | mail@daijianpu.com  |
+|  Tel | +86 131 2521 6924  |
+| I will reply to you as soon as possible!|
