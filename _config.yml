@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://daijianpu.com'
-baseurl: 'https://www.daijianpu.com'
+baseurl: ''
 title: 'Daijianpu.COM'
 description: 'mail@daijianpu.com'
 permalink: pretty
