@@ -10,4 +10,4 @@ feature_text:
 | kkme.com|1200$|Bank Transfer|+7% Service Charge|
 |  vzkz.com|800$|Bank Transfer|+7% Service Charge|
 |  nbqq.com|900$|Bank Transfer|+7% Service Charge|
-|   |   |  [mail@daijianpu.com](https://daijianpu.com/contact/ "mail@daijianpu.com")|86 131 2521 6924 | |
+|   |   |  [Contact Me](https://daijianpu.com/contact/ "Contact Me")|| |
