@@ -1,5 +1,5 @@
 ---
-title: 资讯
+title: Domain
 ---
 <hr>
 <p>假面骑士、奥特曼大部分DX都能提供批发！</p>
