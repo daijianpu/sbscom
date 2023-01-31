@@ -11,4 +11,3 @@ feature_text:
 |  vzkz.com|800$|Bank Transfer|   |
 |  nbqq.com|900$|Bank Transfer|   |
 |   |   |  [mail@daijianpu.com](https://daijianpu.com/contact/ "mail@daijianpu.com")| |
-[Contact Me](https://daijianpu.com/contact/ "Contact Me")
