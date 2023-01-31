@@ -4,7 +4,7 @@ feature_image:
 feature_text:
 ---
 <hr>
-| Domain  |Price $  |Payment|Tips |
+| Domain  |Price |Payment|Tips |
 | ------------ | ------------ | ------------ | ------------ |
 | oiod.com|1000$|Bank Transfer|   |
 | kkme.com|1200$|Bank Transfer|   |
