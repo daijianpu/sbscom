@@ -36,8 +36,6 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Blog
-  url: /blog/
 - title: Domain
   url: /domain/
 - title: Contact
