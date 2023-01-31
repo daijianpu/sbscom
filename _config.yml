@@ -21,10 +21,10 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://shengbaishu.com'
+url: 'https://daijianpu.com'
 baseurl: ''
-title: '圣白树'
-description: '圣白树专注正版模玩供应链批发零售代销分销假面骑士奥特曼周边玩具模型'
+title: 'Daijianpu.COM'
+description: 'mail@daijianpu.com'
 permalink: pretty
 logo: "https://img.alicdn.com/imgextra/i3/2710706468/O1CN01MSs8GS1xeOV16mYim_!!2710706468.jpg"
 
@@ -45,15 +45,15 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: 返回顶部↑Back to top
+- title: Back t↑o top
   url: "#top"
 
 # Collections
 collections:
   posts:
-    title: 近期动态
+    title: Blog
     output: true
-    description: "请联系我们的QQ：2669505"
+    description: "mail@daijianpu.com"
     feature_text: 
     feature_image: https://img.alicdn.com/imgextra/i4/2710706468/O1CN01RGST211xeOUvUE6ua_!!2710706468.jpg
 
