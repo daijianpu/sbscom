@@ -3,6 +3,7 @@ title: Domain List
 feature_image:
 feature_text:
 ---
+<hr>
 | Domain  |Price $  |Payment|Tips |
 | ------------ | ------------ | ------------ | ------------ |
 | oiod.com|1000$|Bank Transfer|   |
