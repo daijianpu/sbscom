@@ -2,5 +2,15 @@
 title: Domain
 ---
 <hr>
-<p>假面骑士、奥特曼大部分DX都能提供批发！</p>
-<p>联系我们的时候请报上你需要的商品图片。</p>
+| Domain  |Price $  |Payment|Tips |
+| ------------ | ------------ | ------------ | ------------ |
+| oiod.com|1000$|Bank Transfer|   |
+| kkme.com|1200$|Bank Transfer|   |
+|  vzkz.com|800$|Bank Transfer|   |
+|  nbqq.com|900$|Bank Transfer|   |
+|   |   |   |  . |
+|   |   |   |  . |
+|   |   |   |   .|
+|   |   |   |   .|
+|   |   || [mail@daijianpu.com](https://daijianpu.com/contact/ "mail@daijianpu.com") |
+
