@@ -2,7 +2,6 @@
 title: Contact
 ---
 <hr>
-| E-Mail：  |  Tel： |   |
-| ------------ | ------------ | ------------ |
-| mail@daijianpu.com  | 86 131 2521 6924  |   |
-|   |   |   ||
+ E-Mail：mail@daijianpu.com 
+ <br>
+ Tel：86 131 2521 6924
