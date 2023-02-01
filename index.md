@@ -13,6 +13,6 @@ feature_text:
 |   |   |  [Contact Me](https://daijianpu.com/contact/ "Contact Me")|| |
 
 <hr>
-mail@daijianpu.com
+E-mail:mail@daijianpu.com
 <br>
-86 131 2521 6924
+Tel:86 131 2521 6924
