@@ -14,5 +14,5 @@ feature_text:
 
 <hr>
 mail@daijianpu.com
-<hr>
+<br>
 86 131 2521 6924
