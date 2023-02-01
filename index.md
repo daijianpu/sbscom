@@ -11,3 +11,8 @@ feature_text:
 |  vzkz.com|800$|Bank Transfer|+7% |
 |  nbqq.com|900$|Bank Transfer|+7% |
 |   |   |  [Contact Me](https://daijianpu.com/contact/ "Contact Me")|| |
+
+<hr>
+mail@daijianpu.com
+<hr>
+86 131 2521 6924
